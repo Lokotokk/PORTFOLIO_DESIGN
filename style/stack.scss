@@ -1,0 +1,14 @@
+.stack {
+    &__icons {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-template-rows: 1fr 1fr;
+        align-items: center;
+        justify-items: center;
+        margin-bottom: 118px;
+    }
+
+    &_icon {
+        padding-bottom: 74px;
+    }
+}

@@ -1,0 +1,10 @@
+.social-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding-left: 0;
+}
+.social-icons__item-box {
+  list-style-type: none;
+}/*# sourceMappingURL=social_icons.css.map */

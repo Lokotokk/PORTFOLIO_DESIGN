@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+@import 'header';
+@import 'navigation';
+@import 'social_icons';
+@import 'main';
+@import 'stack';
+@import 'projects';
+@import 'footer';
+@import 'burgermenu';
+@import 'media';
+
+
+body {
+    background: rgb(245, 245, 245);
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    line-height: 26px;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+

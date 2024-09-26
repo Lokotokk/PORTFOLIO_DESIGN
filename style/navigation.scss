@@ -1,0 +1,28 @@
+.nav {
+    &__list {
+        display: flex;
+        gap: 52px;
+        padding-left: 0;
+    }
+
+    &__item {
+        list-style-type: none;
+    }
+
+    &__link {
+        color: rgb(102, 102, 102);
+        font-family: DM Sans,sans-serif;
+        font-size: 1.25rem;
+        font-weight: 500;
+        letter-spacing: 0px;
+        text-align: center;
+        text-decoration: none;
+
+        &_size {
+            color: rgb(66, 68, 110);
+            font-size: 1.12rem;
+            font-weight: 400;
+            text-align: left;
+        }
+    }
+}
